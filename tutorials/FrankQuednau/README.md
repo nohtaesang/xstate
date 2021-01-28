@@ -1,0 +1,1 @@
+- http://realfiction.net/2019/01/30/xstate-a-typescript-state-machine-with-a-lot-of-features

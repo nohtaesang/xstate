@@ -1,0 +1,1 @@
+- https://www.skcript.com/svr/finite-state-machines-in-react-js-using-xstate/

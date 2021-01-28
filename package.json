@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prettier": "^2.2.1",
+    "xstate": "^4.16.0"
+  }
+}
